@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "/E2ubuM9SnxwwAWlGBNuFx03vGHJwwfoGkeXASg3EmiPImzjrHq6cfuXSSL8RWpkucnkMLeqyzGk9V+ifc14Ew==",
+  "success": true,
+  "projectFilePath": "/Users/maxdoublait/Desktop/YNOV B2/C#/calculator/calculator.csproj",
+  "expectedPackageFiles": [
+    "/Users/maxdoublait/.nuget/packages/atksharp/3.24.24.38/atksharp.3.24.24.38.nupkg.sha512",
+    "/Users/maxdoublait/.nuget/packages/cairosharp/3.24.24.38/cairosharp.3.24.24.38.nupkg.sha512",
+    "/Users/maxdoublait/.nuget/packages/gdksharp/3.24.24.38/gdksharp.3.24.24.38.nupkg.sha512",
+    "/Users/maxdoublait/.nuget/packages/giosharp/3.24.24.38/giosharp.3.24.24.38.nupkg.sha512",
+    "/Users/maxdoublait/.nuget/packages/glibsharp/3.24.24.38/glibsharp.3.24.24.38.nupkg.sha512",
+    "/Users/maxdoublait/.nuget/packages/gtksharp/3.24.24.38/gtksharp.3.24.24.38.nupkg.sha512",
+    "/Users/maxdoublait/.nuget/packages/pangosharp/3.24.24.38/pangosharp.3.24.24.38.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,69 @@
+/Users/marieliserenzema/Desktop/Ynov Projects/calculator/bin/Debug/net6.0/calculator
+/Users/marieliserenzema/Desktop/Ynov Projects/calculator/bin/Debug/net6.0/calculator.deps.json
+/Users/marieliserenzema/Desktop/Ynov Projects/calculator/bin/Debug/net6.0/calculator.runtimeconfig.json
+/Users/marieliserenzema/Desktop/Ynov Projects/calculator/bin/Debug/net6.0/calculator.dll
+/Users/marieliserenzema/Desktop/Ynov Projects/calculator/bin/Debug/net6.0/calculator.pdb
+/Users/marieliserenzema/Desktop/Ynov Projects/calculator/bin/Debug/net6.0/AtkSharp.dll
+/Users/marieliserenzema/Desktop/Ynov Projects/calculator/bin/Debug/net6.0/CairoSharp.dll
+/Users/marieliserenzema/Desktop/Ynov Projects/calculator/bin/Debug/net6.0/GdkSharp.dll
+/Users/marieliserenzema/Desktop/Ynov Projects/calculator/bin/Debug/net6.0/GioSharp.dll
+/Users/marieliserenzema/Desktop/Ynov Projects/calculator/bin/Debug/net6.0/GLibSharp.dll
+/Users/marieliserenzema/Desktop/Ynov Projects/calculator/bin/Debug/net6.0/GtkSharp.dll
+/Users/marieliserenzema/Desktop/Ynov Projects/calculator/bin/Debug/net6.0/PangoSharp.dll
+/Users/marieliserenzema/Desktop/Ynov Projects/calculator/obj/Debug/net6.0/calculator.csproj.AssemblyReference.cache
+/Users/marieliserenzema/Desktop/Ynov Projects/calculator/obj/Debug/net6.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marieliserenzema/Desktop/Ynov Projects/calculator/obj/Debug/net6.0/calculator.AssemblyInfoInputs.cache
+/Users/marieliserenzema/Desktop/Ynov Projects/calculator/obj/Debug/net6.0/calculator.AssemblyInfo.cs
+/Users/marieliserenzema/Desktop/Ynov Projects/calculator/obj/Debug/net6.0/calculator.csproj.CoreCompileInputs.cache
+/Users/marieliserenzema/Desktop/Ynov Projects/calculator/obj/Debug/net6.0/calculator.csproj.CopyComplete
+/Users/marieliserenzema/Desktop/Ynov Projects/calculator/obj/Debug/net6.0/calculator.dll
+/Users/marieliserenzema/Desktop/Ynov Projects/calculator/obj/Debug/net6.0/refint/calculator.dll
+/Users/marieliserenzema/Desktop/Ynov Projects/calculator/obj/Debug/net6.0/calculator.pdb
+/Users/marieliserenzema/Desktop/Ynov Projects/calculator/obj/Debug/net6.0/calculator.genruntimeconfig.cache
+/Users/marieliserenzema/Desktop/Ynov Projects/calculator/obj/Debug/net6.0/ref/calculator.dll
+/Users/maxdoublait/Desktop/calculator/bin/Debug/net6.0/calculator
+/Users/maxdoublait/Desktop/calculator/bin/Debug/net6.0/calculator.deps.json
+/Users/maxdoublait/Desktop/calculator/bin/Debug/net6.0/calculator.runtimeconfig.json
+/Users/maxdoublait/Desktop/calculator/bin/Debug/net6.0/calculator.dll
+/Users/maxdoublait/Desktop/calculator/bin/Debug/net6.0/calculator.pdb
+/Users/maxdoublait/Desktop/calculator/bin/Debug/net6.0/AtkSharp.dll
+/Users/maxdoublait/Desktop/calculator/bin/Debug/net6.0/CairoSharp.dll
+/Users/maxdoublait/Desktop/calculator/bin/Debug/net6.0/GdkSharp.dll
+/Users/maxdoublait/Desktop/calculator/bin/Debug/net6.0/GioSharp.dll
+/Users/maxdoublait/Desktop/calculator/bin/Debug/net6.0/GLibSharp.dll
+/Users/maxdoublait/Desktop/calculator/bin/Debug/net6.0/GtkSharp.dll
+/Users/maxdoublait/Desktop/calculator/bin/Debug/net6.0/PangoSharp.dll
+/Users/maxdoublait/Desktop/calculator/obj/Debug/net6.0/calculator.csproj.AssemblyReference.cache
+/Users/maxdoublait/Desktop/calculator/obj/Debug/net6.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxdoublait/Desktop/calculator/obj/Debug/net6.0/calculator.AssemblyInfoInputs.cache
+/Users/maxdoublait/Desktop/calculator/obj/Debug/net6.0/calculator.AssemblyInfo.cs
+/Users/maxdoublait/Desktop/calculator/obj/Debug/net6.0/calculator.csproj.CoreCompileInputs.cache
+/Users/maxdoublait/Desktop/calculator/obj/Debug/net6.0/calculator.csproj.CopyComplete
+/Users/maxdoublait/Desktop/calculator/obj/Debug/net6.0/calculator.dll
+/Users/maxdoublait/Desktop/calculator/obj/Debug/net6.0/refint/calculator.dll
+/Users/maxdoublait/Desktop/calculator/obj/Debug/net6.0/calculator.pdb
+/Users/maxdoublait/Desktop/calculator/obj/Debug/net6.0/calculator.genruntimeconfig.cache
+/Users/maxdoublait/Desktop/calculator/obj/Debug/net6.0/ref/calculator.dll
+/Users/maxdoublait/Desktop/YNOV B2/C#/calculator/bin/Debug/net6.0/calculator
+/Users/maxdoublait/Desktop/YNOV B2/C#/calculator/bin/Debug/net6.0/calculator.deps.json
+/Users/maxdoublait/Desktop/YNOV B2/C#/calculator/bin/Debug/net6.0/calculator.runtimeconfig.json
+/Users/maxdoublait/Desktop/YNOV B2/C#/calculator/bin/Debug/net6.0/calculator.dll
+/Users/maxdoublait/Desktop/YNOV B2/C#/calculator/bin/Debug/net6.0/calculator.pdb
+/Users/maxdoublait/Desktop/YNOV B2/C#/calculator/bin/Debug/net6.0/AtkSharp.dll
+/Users/maxdoublait/Desktop/YNOV B2/C#/calculator/bin/Debug/net6.0/CairoSharp.dll
+/Users/maxdoublait/Desktop/YNOV B2/C#/calculator/bin/Debug/net6.0/GdkSharp.dll
+/Users/maxdoublait/Desktop/YNOV B2/C#/calculator/bin/Debug/net6.0/GioSharp.dll
+/Users/maxdoublait/Desktop/YNOV B2/C#/calculator/bin/Debug/net6.0/GLibSharp.dll
+/Users/maxdoublait/Desktop/YNOV B2/C#/calculator/bin/Debug/net6.0/GtkSharp.dll
+/Users/maxdoublait/Desktop/YNOV B2/C#/calculator/bin/Debug/net6.0/PangoSharp.dll
+/Users/maxdoublait/Desktop/YNOV B2/C#/calculator/obj/Debug/net6.0/calculator.csproj.AssemblyReference.cache
+/Users/maxdoublait/Desktop/YNOV B2/C#/calculator/obj/Debug/net6.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxdoublait/Desktop/YNOV B2/C#/calculator/obj/Debug/net6.0/calculator.AssemblyInfoInputs.cache
+/Users/maxdoublait/Desktop/YNOV B2/C#/calculator/obj/Debug/net6.0/calculator.AssemblyInfo.cs
+/Users/maxdoublait/Desktop/YNOV B2/C#/calculator/obj/Debug/net6.0/calculator.csproj.CoreCompileInputs.cache
+/Users/maxdoublait/Desktop/YNOV B2/C#/calculator/obj/Debug/net6.0/calculator.csproj.CopyComplete
+/Users/maxdoublait/Desktop/YNOV B2/C#/calculator/obj/Debug/net6.0/calculator.dll
+/Users/maxdoublait/Desktop/YNOV B2/C#/calculator/obj/Debug/net6.0/refint/calculator.dll
+/Users/maxdoublait/Desktop/YNOV B2/C#/calculator/obj/Debug/net6.0/calculator.pdb
+/Users/maxdoublait/Desktop/YNOV B2/C#/calculator/obj/Debug/net6.0/calculator.genruntimeconfig.cache
+/Users/maxdoublait/Desktop/YNOV B2/C#/calculator/obj/Debug/net6.0/ref/calculator.dll
